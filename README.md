@@ -22,6 +22,19 @@
 
 > **`Current Bot Version ➜ 0.0.1`**
 ---
+[![Sponsor Reincarnated uchiha](https://img.shields.io/badge/Sponsor-reincarnated_uchiha-important)](https://github.com/sponsors/saddemon1185)
+
+---
+> **`Updated` UCHIHA-MD with Latest Features**
+
+---
+### 🌟 Connect With Me
+<p align="center">
+  <a href="https://whatsapp.com/channel/0029Vayffwg3rZZiMjoycd1z"><img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="15%"></a>
+  <a href="https://instagram.com/_its.silva"><img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram.png" width="15%"></a>
+  <a href="https://www.facebook.com/profile.php?id=100055490090211"><img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="16%"></a>
+  <a href="https://x.com/silva_african"><img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="17%"></a>
+</p>
 
 ```
 Dont forget to fork 🍴 & star 🌟 repo😇
@@ -107,21 +120,46 @@ You will need a session ID to run the UCHIHA-MD. Click the button below to obtai
 </details>
 
 --------------
-⭕  DEPLOY ON [ Panel ]
+
+<h4 align="center">1. Heroku</h4>
+<p align="center">
+<a href='https://dashboard.heroku.com/new?template=https://github.com/saddemon1185/uchiha-md' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Heroku%20Deploy-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+</p>
+
+<h4 align="center">2. Koyeb</h4>
+<p align="center">
+<a href='https://app.koyeb.com/services/deploy?type=git&repository=saddemon1185/uchiha-md&ports=3000' target="_blank"><img alt='Koyeb' src='https://img.shields.io/badge/-Koyeb%20Deploy-green?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+</p>
+
+<h4 align="center">3. Railway</h4>
+<p align="center">
+<a href='https://railway.app/new' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/-Railway%20Deploy-red?style=for-the-badge&logo=railway&logoColor=white'/></a>
+</p>
+
+<h4 align="center">4. Render</h4>
+<p align="center">
+<a href='https://dashboard.render.com/web/new' target="_blank"><img alt='Render' src='https://img.shields.io/badge/-Render%20Deploy-black?style=for-the-badge&logo=render&logoColor=white'/></a>
+</p>
+
+<h4 align="center">5. Netlify</h4>
+<p align="center">
+<a href='https://app.netlify.com/' target="_blank"><img alt='Netlify' src='https://img.shields.io/badge/-Netlify%20Deploy-blue?style=for-the-badge&logo=netlify&logoColor=white'/></a>
+</p>
+
+<h4 align="center">6. Replit</h4>
+<p align="center">
+<a href='https://replit.com/~' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Replit%20Deploy-blue?style=for-the-badge&logo=replit&logoColor=white'/></a>
+</p>
+
+---
+<h4 align="center">⭕  DEPLOY ON [ Panel ]
 
 [![Find On Whatsapp ](https://img.shields.io/badge/🚘Click_Here-blue.svg)](https://toystack.ai)
 
 [![Find On Whatsapp ](https://img.shields.io/badge/🚘How_to_deploy-grey.svg)](https://www.youtube.com/@naughtyking6206)
 
 
-⭕  DEPLOY BOT *[ HEROKU ]*
 
-[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-red.svg)](https://bmw-verification.vercel.app/nomal.html)
-
-
-[![Find On Whatsapp ](https://img.shields.io/badge/🚘How_to_deploy-grey.svg)](https://www.youtube.com/@naughtyking6206)
-
-***
 
 ## 🌐 WhatsApp Channel 
 
