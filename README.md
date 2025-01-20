@@ -96,7 +96,7 @@ Dont forget to fork 🍴 & star 🌟 repo😇
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-  <a href="https://github.com/saddemon1185/UCHIHA-MD/fork"><img title="UCHIHA-MD" src="https://img.shields.io/badge/FORK-SUBZERO-MDh?color=blue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/saddemon1185/UCHIHA-MD/fork"><img title="UCHIHA-MD" src="https://img.shields.io/badge/FORK-UCHIHA-MDh?color=blue&style=for-the-badge&logo=stackshare"></a>
   
 ### 2. Get Session ID 
 
