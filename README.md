@@ -30,7 +30,7 @@ Dont forget to fork 🍴 & star 🌟 repo😇
 
 <p align="center">
   <a href="https://github.com/saddemon1185">
-    <img src="http://readme-typing-svg.herokuapp.com?color=blue&center=true&vCenter=true&multiline=false&lines=UCHIHA-MD+MultiDevice;whatsapp+bot;Developed+by+sad+demon;UCHIHA-MD+is+the+honoured+bot+🌟" alt="saddemon1185Readme">
+    <img src="http://readme-typing-svg.herokuapp.com?font=Black+Ops+One&size=40&pause=1000&color=1BAFBAFF&center=true&width=1000&height=100&multiline=false&lines=UCHIHA-MD;MultiDevice+whatsapp+bot;Developed+by+sad+demon;UCHIHA-MD+is+the+honoured+bot+🌟" alt="saddemon1185Readme">
   </a>
 </p>
 
@@ -69,7 +69,15 @@ Dont forget to fork 🍴 & star 🌟 repo😇
 ### 🧚‍♀️SADDEMON1185 X REINCARNATED UCHIHA💫
 
 
-***
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=40&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +UCHIHA-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+REINCARNATED+UCHIHA;RELEASED+25.1.2025" alt="Typing SVG" /></a>
+
+***#### SETUP 
+
+***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/saddemon1185/UCHIHA-Md/fork) It***
+
+***2.`Get Session ID` by [`SCANING QR`](https://uchiha-md-scanner.onrender.com) Or [`PAIRING CODE`](https://reincarnated-uchiha.vercel.app)***
+
+* - Copy The Session ID for it Will be needed during deployment*
 
 ### 1. Fork This Repository
 
@@ -79,7 +87,7 @@ Start by forking this repository to your own GitHub account. Click the button be
   
 ### 2. Get Session ID 
 
-You will need a session ID to run the SUBZERO-MD. Click the button below to obtain your session ID.if any error in loading site try vpn:
+You will need a session ID to run the UCHIHA-MD. Click the button below to obtain your session ID.if any error in loading site try vpn:
 
 > **1️⃣Pair Code (Session ID)**
 
@@ -89,16 +97,6 @@ You will need a session ID to run the SUBZERO-MD. Click the button below to obta
 <br> 
 <details>
   
-
------
-
-<h4 align="center">1.Deploy bot [Render]</h4>
-<p style="text-align: center; font-size: 1.2em;">
-   [![Find On Whatsapp ](https://img.shields.io/badge/🚘How_to_deploy-grey.svg)](https://www.youtube.com/@naughtyking6206)
-<p align="center">
-<a href='https://dashboard.render.com/web/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Render deploy-black?style=for-the-badge&logo=render&logoColot=white'/< width=150 height=28/p></a>
---------
-
 
 ```After that wait 10 seconds & your have deployed it successfuly  for free 24/7```
 
