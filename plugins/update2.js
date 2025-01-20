@@ -15,7 +15,7 @@ cmd({
   try {
     await conn.sendMessage(from, { text: 'Please wait... Updating bot...' }, { quoted: mek });
 
-    const repoUrl = `https://github.com/mrfrank-ofc/SUBZERO-MD`;
+    const repoUrl = `https://github.com/saddemon1185/UCHIHA-MD`;
 
     console.log("Updating repository using rsync...");
     execSync(`rsync -avz --delete --exclude=.git ${repoUrl}/ ./`);
