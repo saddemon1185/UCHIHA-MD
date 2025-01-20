@@ -75,7 +75,7 @@ Dont forget to fork 🍴 & star 🌟 repo😇
 
 ***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/saddemon1185/UCHIHA-Md/fork) It***
 
-***2.`Get Session ID` by [`SCANING QR`](https://uchiha-md-scanner.onrender.com) Or [`PAIRING CODE`](https://reincarnated-uchiha.vercel.app)***
+***2.`Get Session ID` by  [`PAIRING CODE`](https://uchiha-md.vercel.app)***
 
 * - Copy The Session ID for it Will be needed during deployment*
 
